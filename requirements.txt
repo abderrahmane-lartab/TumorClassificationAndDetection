@@ -1,0 +1,37 @@
+
+# Data processing
+numpy
+pandas
+Pillow
+opencv-python
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning and Classification
+scikit-learn
+tensorflow
+
+# Object Detection - YOLOv8
+ultralytics
+
+# Experiment Tracking
+mlflow
+
+# REST API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Frontend
+streamlit
+requests
+
+# Configuration and Utilities
+PyYAML
+tqdm
+
+# Notebook
+jupyter
+ipykernel
